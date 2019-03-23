@@ -1,4 +1,18 @@
 Package: com.nan.sileo.zh
+Version: 0.1.2
+Architecture: all
+Maintainer: zhaonan
+Filename: debs/com.nan.sileo.zh_0.1.2_all.deb
+Size: 5216
+MD5sum: a03ce3c4509bf603d8e1bca800404cde
+SHA1: ba8097014f83e7e89826cca0f5788aa9ca54f61c
+SHA256: 31eb37d0f5da1689d36e15defe87d8a83f36bc2c49d170c128c6a25fc8d39453
+Section: 汉化
+Description: emmmmmmm 没啥好描述的
+Author: zhaonan
+Name: Sileo 汉化
+
+Package: com.nan.sileo.zh
 Version: 0.1.3
 Architecture: all
 Maintainer: zhaonan
