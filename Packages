@@ -90,10 +90,10 @@ Architecture: all
 Maintainer: zhaonan
 Depends: com.julioverne.cydown
 Filename: debs/com.nan.cydown.zh_0.1.0_all.deb
-Size: 8016
-MD5sum: 2d48a956d7ee40e9f923659550d55d64
-SHA1: af09aa360718dfc5a64466dd34e73953a78dd3e3
-SHA256: dc45bc84f39af9dd586cbfdcc3c7d64a61a92873cfa1a463bf260747267aaf2e
+Size: 8078
+MD5sum: 00e7b45c9cb48fc148f055b155426ab1
+SHA1: 7d179701453e35e1a2cfafb7f7095c6884aaacf6
+SHA256: 8754208f03d099ad6a25a10361150656d3ba4263dfe1f79a277111d31f36e4fc
 Section: 汉化
 Description: 专治 CyDown 汉化不全
 Author: Netskao
