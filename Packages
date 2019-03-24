@@ -88,6 +88,7 @@ Package: com.nan.sileo.zh
 Version: 0.1.2
 Architecture: all
 Maintainer: zhaonan
+Depends: Firmware(>= 11.0)
 Filename: debs/com.nan.sileo.zh_0.1.2_all.deb
 Size: 5216
 MD5sum: a03ce3c4509bf603d8e1bca800404cde
@@ -102,6 +103,7 @@ Package: com.nan.sileo.zh
 Version: 0.1.3
 Architecture: all
 Maintainer: zhaonan
+Depends: Firmware(>= 11.0)
 Filename: debs/com.nan.sileo.zh_0.1.3_all.deb
 Size: 5216
 MD5sum: d7548b954ce37471137530f8b1674660
@@ -116,11 +118,12 @@ Package: com.nan.sileo.zh
 Version: 0.1.4
 Architecture: all
 Maintainer: zhaonan
+Depends: Firmware(>= 11.0)
 Filename: debs/com.nan.sileo.zh_0.1.4_all.deb
-Size: 5262
-MD5sum: eab9a6961470d2df91089b4391048238
-SHA1: e1948f9b362181cb9cb63a939016a56713628eda
-SHA256: 38d4c382eb8f15f49e4417c493a4190d218aaa2328124aa2a5052cfd04713ed5
+Size: 5286
+MD5sum: 23203eb68bbf43d878e68f665ab52c37
+SHA1: a737568ddf35aa1d5421ff4399095087bc0c1abb
+SHA256: 8424771701a71321486648cd297708a8ead68637514ae77b8e7e9ac854614c5a
 Section: 汉化
 Description: emmmmmmm 没啥好描述的
 Author: zhaonan
