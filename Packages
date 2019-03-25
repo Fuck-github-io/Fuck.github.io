@@ -106,12 +106,12 @@ Architecture: all
 Maintainer: zhaonan
 Depends: com.julioverne.cydown
 Filename: debs/com.nan.cydown.zh_0.1.2_all.deb
-Size: 8178
-MD5sum: eddc55e38a6d5978898dc46cf283bb97
-SHA1: c7a6210c71275635031121d3f5a68603f85ae396
-SHA256: f786cb72ec45d07889a5e338d469c6b42dd5427a2b3b2f40fe7f2cb13b8bc04f
+Size: 8172
+MD5sum: 8b98f9c74cc51fff5814c30d5b723695
+SHA1: 0dae59064c8002e6f6deeb511293c8c6ecd42e78
+SHA256: 3286dfdbe128579b7938ad408108fdc470b9047c7ee6a6b9fa56c8e9cd35a951
 Section: 汉化
-Description: 专治 CyDown 汉化不全&lt;br&gt;&lt;br&gt;安装后即可卸载
+Description: 专治 CyDown 汉化不全</br></br>安装后即可卸载
 Author: Netskao
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown 汉化修正
@@ -175,3 +175,5 @@ SHA256: b3d93e22c4364a7122db2a1da5880bec94c115365b996988afd46ea9e864ec23
 Section: 汉化
 Description: emmmmmmm 没啥好描述的
 Author: zhaonan
+Icon: file:///Applications/Sileo.app/AppIcon60x60@2x.png
+Name: Sileo 汉化
