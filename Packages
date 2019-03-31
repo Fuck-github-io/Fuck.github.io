@@ -130,6 +130,20 @@ Description: </br></br>备份字体脚本</br>安装后将</br>System/Library/Fo
 Author: zhaonan
 Name: 备份字体
 
+Package: com.nan.script.fontbackup
+Version: 0.1.1
+Architecture: all
+Maintainer: zhaonan
+Filename: debs/com.nan.script.fontbackup_0.1.1_all.deb
+Size: 1234
+MD5sum: 4d5463c4b1f33875236b8359a3a405e9
+SHA1: 02ca8b9f1d49e87cbb137fa83259e28667fd27b7
+SHA256: d09419b3e99c994cde8c15fc0e78b689a185ecb48c48ce4cb8f08d749618d2df
+Section: 自用
+Description: </br></br>备份字体脚本</br>安装后将</br>System/Library/Fonts</br>备份到</br>/var/mobile/Media/Caches/nan/System Data/System/Library/</br>卸载后将备份复制回</br>System/Library/Fonts
+Author: zhaonan
+Name: Back Fonts
+
 Package: com.nan.sileo.zh
 Version: 0.1.2
 Architecture: all
