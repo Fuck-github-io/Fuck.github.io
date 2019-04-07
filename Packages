@@ -84,6 +84,20 @@ Dev: thedave1482
 Icon: file:///Applications/PowerApp.app/Icon.png
 Name: PowerApp
 
+Package: com.nan.bf
+Version: 0.1.0
+Architecture: all
+Maintainer: zhaonan <Invalidunit@icloud.com>
+Filename: debs/com.nan.bf_0.1.0_all.deb
+Size: 2056
+MD5sum: fa2202a9078a04b966ad9a56185f7970
+SHA1: 71d1ab86de052ecbc404dd9606c5b3fcc8fea3fc
+SHA256: a7396e456bdb97ae2a594788c548e5eb8d6647cb2a74f881a4b0281a487c0e2c
+Section: Terminal_Support
+Description: 安装后在 Terminal 运行 bf
+Author: zhaonan
+Name: bf
+
 Package: com.nan.cydown.zh
 Version: 0.1.1
 Architecture: all
