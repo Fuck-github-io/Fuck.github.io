@@ -130,6 +130,20 @@ Author: Netskao
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown 汉化修正
 
+Package: com.nan.fonts.zazhong
+Version: 0.1.0
+Architecture: all
+Maintainer: zhaonan
+Filename: debs/com.nan.fonts.zazhong_0.1.0_all.deb
+Size: 17203350
+MD5sum: 022420eee1a982b7baaf3daec6a57821
+SHA1: dab13c5a34ca59038e3c34ecc50ec7c4dd2880d5
+SHA256: f843a4c2cf89b032f23114ae602b2d48609dbb21fdae8d86728921423ac443ae
+Section: Fonts
+Description: 本 deb 使用了新蒂下午茶的英文和海派腔调清夏的中文</br> </br>感谢宁静之雨分享的"新蒂下午茶"字体</br>感谢字由心语分享的"海派腔调清夏"字体
+Author: zhaonan
+Name: 新蒂下午茶英文 + 海派腔调清夏中文
+
 Package: com.nan.script.fontbackup
 Version: 0.1.0
 Architecture: all
