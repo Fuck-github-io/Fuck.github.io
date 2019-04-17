@@ -84,6 +84,38 @@ Dev: thedave1482
 Icon: file:///Applications/PowerApp.app/Icon.png
 Name: PowerApp
 
+Package: com.julioverne.cracktool2
+Version: 2.3~beta9
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
+Filename: debs/com.julioverne.cracktool2_2.3~beta9_iphoneos-arm.deb
+Size: 432216
+MD5sum: b6232b142ca7f8a19a7bcd726a2aedb3
+SHA1: 34e60cb540b16677387a59b8ab3002f6c0fb37cf
+SHA256: d35ec02515f76976e332e77d9eb3e7559f23f7f227a018a7fcd249c82c629f66
+Section: Utilities
+Homepage: http://twitter.com/ijulioverne
+Description: 点击一下就可以破解调整
+Author: julioverne
+Name: CrackTool2
+
+Package: com.julioverne.cracktool3
+Version: 3.0~beta11
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: debs/com.julioverne.cracktool3_3.0~beta11_iphoneos-arm.deb
+Size: 165344
+MD5sum: 454aebaeb99805d2419c1a6672c75b17
+SHA1: 871a5696285d7fac46c213d5ed88ae7d4ffb8028
+SHA256: df4cfb79e237215fa1afe3e4ff42e74d6ac7a60cc6bc0740cb66205b7c7258c1
+Section: Utilities
+Homepage: http://twitter.com/ijulioverne
+Description: 一键式破解调整。arm64。任何问题都尝试在安全模式下重新安装或运行CT3。
+Author: julioverne
+Name: CrackTool3
+
 Package: com.julioverne.cydown
 Version: 6.9.7
 Architecture: iphoneos-arm
