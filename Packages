@@ -180,6 +180,21 @@ Author: Netskao
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown 汉化修正
 
+Package: com.nan.fonts.xindixiawucha
+Version: 0.1.0
+Architecture: all
+Maintainer: zhaonan
+Filename: debs/com.nan.fonts.xindixiawucha_0.1.0_all.deb
+Size: 49896592
+MD5sum: e04dd85cde98f6ab09fe76976c969554
+SHA1: 7c89a4a6ffb4170b231ab89e6701f43b1b837dae
+SHA256: 3346459bcc724893b4d492546d3ee6e7150c2f9d516ec82e2c500f5bfec3e93c
+Section: Fonts
+Description: 感谢宁静之雨分享的新蒂下午茶字体
+ 支持 IOS 10 或更高不过可能有瑕疵
+Author: zhaonan
+Name: 新蒂下午茶
+
 Package: com.nan.fonts.zazhong
 Version: 0.1.0
 Architecture: all
