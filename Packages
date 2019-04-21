@@ -180,6 +180,24 @@ Author: Netskao
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown 汉化修正
 
+Package: com.nan.fonts.haipaiqiangdiaoqingxia
+Version: 0.1.0
+Architecture: all
+Maintainer: zhaonan
+Filename: debs/com.nan.fonts.haipaiqiangdiaoqingxia_0.1.0_all.deb
+Size: 14159960
+MD5sum: 57cd395a93d75d3b01072dcdac689a71
+SHA1: 50255155365d9a8999c29579a5c22a0be8235344
+SHA256: a92bb30358f9a8829f032cb3722ce4649f6cf27335e2ff5961d7da6f68a024b5
+Section: Fonts
+Description: 感谢字由心语分享的海派腔调清夏字体
+ ====================
+ 支持 IOS 11 或更高
+ 不过可能有瑕疵
+ ====================
+Author: zhaonan
+Name: 海派腔调清夏
+
 Package: com.nan.fonts.xindixiawucha
 Version: 0.1.0
 Architecture: all
