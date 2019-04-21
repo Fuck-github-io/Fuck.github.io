@@ -334,3 +334,22 @@ Author: zhaonan
 Icon: file:///Applications/Sileo.app/AppIcon60x60@2x.png
 Name: Sileo 汉化
 
+Package: com.nan.theme.aential
+Version: 0.1.0
+Architecture: all
+Maintainer: zhaonan
+Filename: debs/com.nan.theme.aential_0.1.0_all.deb
+Size: 1892936
+MD5sum: 812ad064098f1e59148266286e49ae63
+SHA1: 6f655197683c6a901fe9c84e39544e0c89ba087a
+SHA256: 436a2d497558958d868dbf523216337eff104bc700741406f169e1ff57586041
+Section: Themes
+Description: 感谢 Dynastic Repo 的 Sential
+ ====================
+ Aentia 完全在 Sential 的基础上按个人爱好修改
+ 希望使用的支持 Sential
+ ====================
+Author: zhaonan
+Icon: file:///Library/Themes/Aential - Icons.theme/Icon.png
+Name: Aential
+
