@@ -339,12 +339,12 @@ Version: 0.1.0
 Architecture: all
 Maintainer: zhaonan
 Filename: debs/com.nan.theme.aential_0.1.0_all.deb
-Size: 1870530
-MD5sum: 6434345e3681d616ba2ed031d8450f10
-SHA1: 3fd3b6535ecfe26bb92921cf073be2f865d19982
-SHA256: d4b3ecc609b17ec1e01b33ff9055f8375c21f169737e5fd65d5e7d45807f5d12
+Size: 1870518
+MD5sum: cef17fa2fb08067bb782f90f0105edb0
+SHA1: f27e3bdf2230ae922ae6dd97a1c85a2170716647
+SHA256: 0833f88e5fb90007b24a8e0e2ca62cd79500a4053c61b7132d665816127a4804
 Section: Themes
-Description: 感谢 Dynastic Repo 的 Sential
+Description: 感谢 Alessandro Chiarlitti 发布的 Sential
  ====================
  Aentia 完全在 Sential 的基础上按个人爱好修改
  希望使用的支持 Sential
