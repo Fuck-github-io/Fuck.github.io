@@ -412,6 +412,21 @@ Description: 本 deb 使用了新蒂下午茶的英文和海派腔调清夏的�
 Author: zhaonan
 Name: 新蒂下午茶英文 + 海派腔调清夏中文
 
+Package: com.nan.goodwifi
+Version: 0.0~beta4
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.nan.goodwifi_0.0~beta4_iphoneos-arm.deb
+Size: 54982
+MD5sum: d1717a48dce205db19f72677bbef103e
+SHA1: 1f43fa6d61102b6380de5af991c435c9fbabf901
+SHA256: a743571d67d979f9fa3ea76f0a43abd4be43fd2c9bc170385dd3c22f1e85f7aa
+Section: Tweaks
+Description: 在设置 Wi-Fi 界面,显示wifi信号强度和增加一个菜单查看历史连接过的wifi和密码
+Author: julioverne
+Name: GoodWiFi
+
 Package: com.nan.script.fontbackup
 Version: 0.1.0
 Architecture: all
