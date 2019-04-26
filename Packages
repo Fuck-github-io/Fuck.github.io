@@ -427,6 +427,22 @@ Description: 在设置 Wi-Fi 界面,显示wifi信号强度和增加一个菜单�
 Author: julioverne
 Name: GoodWiFi
 
+Package: com.nan.qqhelper
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate
+Filename: debs/com.nan.qqhelper_1.2.0_iphoneos-arm.deb
+Size: 70396
+MD5sum: f8d2b282c2002113a212022e5e7949db
+SHA1: 83b564d6850c16d03db1ef38ff83ca82bf721278
+SHA256: 2efc71bd4e7191d1a5472496aded61604da41bbff79728070addcb1d0ec705a8
+Section: Tweaks
+Description: QQ小助手,兼容App Store最新版本
+Author: Netskao
+Icon: file:///Applications/Cydia.app/Sections/Toys.png
+Name: QQ Helper
+
 Package: com.nan.script.fontbackup
 Version: 0.1.0
 Architecture: all
