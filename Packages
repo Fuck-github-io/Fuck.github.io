@@ -415,13 +415,13 @@ Name: 新蒂下午茶英文 + 海派腔调清夏中文
 Package: com.nan.goodwifi
 Version: 0.0~beta4
 Architecture: iphoneos-arm
-Maintainer: Nets
+Maintainer: zhaonan
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/com.nan.goodwifi_0.0~beta4_iphoneos-arm.deb
-Size: 54982
-MD5sum: d1717a48dce205db19f72677bbef103e
-SHA1: 1f43fa6d61102b6380de5af991c435c9fbabf901
-SHA256: a743571d67d979f9fa3ea76f0a43abd4be43fd2c9bc170385dd3c22f1e85f7aa
+Size: 54986
+MD5sum: 1a88e289e151b6847734fcfe24d7d7bd
+SHA1: eef33cde0063fff7c39d5e5f1c0d138f524b951e
+SHA256: 4f6bbadfd457e130c6e417448ff27e232b12fa3574c26d5cfca6878a8c398488
 Section: Tweaks
 Description: 在设置 Wi-Fi 界面,显示wifi信号强度和增加一个菜单查看历史连接过的wifi和密码
 Author: julioverne
