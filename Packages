@@ -12,61 +12,11 @@ MD5sum: 0aefee2a00728354cb659c7279d6147f
 SHA1: b7ba70a27dca2af926380c34b904bb857c1499c5
 SHA256: 8cbdc4ecb2854faac241d1c9f391f18cdeee18689c35959b7eefa1f116d2acbb
 Section: Tweaks
-Description: 一个很棒的主题管理应用!
+Description: An awesome theme manager!
 Author: AnemoneTeam <anemonetheming@gmail.com>
 Icon: https://coolstar.moe/sileoassets/featured/anemone3-icon.png
 Name: Anemone 3 for unc0ver
 Sileodepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=com.anemonetheming.anemone3
-
-Package: com.julioverne.cracktool2
-Version: 2.3~beta9
-Architecture: iphoneos-arm
-Maintainer: Julio
-Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
-Filename: debs/com.julioverne.cracktool2_2.3~beta9_iphoneos-arm.deb
-Size: 432216
-MD5sum: b6232b142ca7f8a19a7bcd726a2aedb3
-SHA1: 34e60cb540b16677387a59b8ab3002f6c0fb37cf
-SHA256: d35ec02515f76976e332e77d9eb3e7559f23f7f227a018a7fcd249c82c629f66
-Section: Utilities
-Homepage: http://twitter.com/ijulioverne
-Description: 点击一下就可以破解调整
-Author: julioverne
-Name: CrackTool2
-
-Package: com.julioverne.cracktool3
-Version: 3.0~beta11
-Architecture: iphoneos-arm
-Maintainer: Julio
-Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
-Filename: debs/com.julioverne.cracktool3_3.0~beta11_iphoneos-arm.deb
-Size: 165344
-MD5sum: 454aebaeb99805d2419c1a6672c75b17
-SHA1: 871a5696285d7fac46c213d5ed88ae7d4ffb8028
-SHA256: df4cfb79e237215fa1afe3e4ff42e74d6ac7a60cc6bc0740cb66205b7c7258c1
-Section: Utilities
-Homepage: http://twitter.com/ijulioverne
-Description: 一键式破解调整。arm64。任何问题都尝试在安全模式下重新安装或运行CT3。
-Author: julioverne
-Name: CrackTool3
-
-Package: com.julioverne.cydown
-Version: 6.9.7
-Architecture: iphoneos-arm
-Maintainer: Julio
-Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
-Filename: debs/com.julioverne.cydown_6.9.7_iphoneos-arm.deb
-Size: 1085390
-MD5sum: 7e923c276b894da812f3e775df72ffb7
-SHA1: 20784e92651d049dbed0f3c4ccd5f6cf0b20bd17
-SHA256: 14cf3ce759e0820b955b65026445ad6bb761f2c95e5830996874b1a2f855163d
-Section: Tweaks
-Homepage: http://twitter.com/ijulioverne
-Description: Cydia 下载管理器 & 额外功能 !
-Author: julioverne <julioverne@me.com>
-Depiction: http://julio.xarold.com/files-deb/cydown.html
-Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
-Name: CyDown
 
 Package: com.nan.bf
 Version: 0.1.1
@@ -96,6 +46,56 @@ Section: System
 Description: 最初目的是让国行以外的机型可以调系统WI-FI的联网权限,后用于开启国行机型越狱后App无法联网的问题,支持iOS11-iOS12
 Author: ATWiiks
 Name: ConditionalWiFi4
+
+Package: com.nan.cracktool2
+Version: 2.3~beta9
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
+Filename: debs/com.nan.cracktool2_2.3~beta9_iphoneos-arm.deb
+Size: 432260
+MD5sum: c0a685bb914e391f2c81fcb3707b51d5
+SHA1: 6ed291f9152448c721a4584d7907842c1b6b5d03
+SHA256: d42e3623662e0a442715d8f296cae2228732aa91f83202844cbfbe825813f9b3
+Section: Utilities
+Homepage: http://twitter.com/ijulioverne
+Description: 点击一下就可以破解调整
+Author: julioverne
+Name: CrackTool2
+
+Package: com.nan.cracktool3
+Version: 3.0~beta11
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: debs/com.nan.cracktool3_3.0~beta11_iphoneos-arm.deb
+Size: 165422
+MD5sum: 6fe29bcfd596df4e4bbc23e572edca7f
+SHA1: ba7db2944417a8a0f0d9a9a6b36a13219373916a
+SHA256: ebb2ffe1f7d29eb40790bf369503ea5598f6644b5acb945fba76b49c66d1eddd
+Section: Utilities
+Homepage: http://twitter.com/ijulioverne
+Description: 一键式破解调整。arm64。任何问题都尝试在安全模式下重新安装或运行CT3。
+Author: julioverne
+Name: CrackTool3 (iOS 11)
+
+Package: com.nan.cydown
+Version: 6.9.7
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Filename: debs/com.nan.cydown_6.9.7_iphoneos-arm.deb
+Size: 1548924
+MD5sum: dad441e24dda7530a867aeae577f3455
+SHA1: 77139d9d42f8bf60d2f84a205d0a40bcdc8cdde6
+SHA256: 25c404d34600f0f0081ab8f225702669dbe3f3c468c7ce8e169977faa8f5a899
+Section: Tweaks
+Homepage: http://twitter.com/ijulioverne
+Description: Cydia 下载管理器 & 额外功能 !
+Author: julioverne <julioverne@me.com>
+Depiction: http://julio.xarold.com/files-deb/cydown.html
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Name: CyDown
 
 Package: com.nan.cydown.zh
 Version: 0.1.1
@@ -211,20 +211,6 @@ Icon: file:///Applications/Cydia.app/Sections/Toys.png
 Name: QQ Helper
 
 Package: com.nan.script.fontbackup
-Version: 0.1.0
-Architecture: all
-Maintainer: zhaonan
-Filename: debs/com.nan.script.fontbackup_0.1.0_all.deb
-Size: 996
-MD5sum: ad025cde80ec2f6ff2c92faa14812ed5
-SHA1: fe1833353bf35e550ba76ab669fb08deb35333b6
-SHA256: d12281b61abce8c166d5dd78bbf7843859de7d9ce6ca0f7dc05c32569f6f5e02
-Section: 自用
-Description: </br></br>备份字体脚本</br>安装后将</br>System/Library/Fonts</br>备份到</br>/var/mobile/Media/Caches/nan/System Data/System/Library/</br>卸载后将备份复制回</br>System/Library/Fonts
-Author: zhaonan
-Name: 备份字体
-
-Package: com.nan.script.fontbackup
 Version: 0.1.1
 Architecture: all
 Maintainer: zhaonan
@@ -239,17 +225,17 @@ Author: zhaonan
 Name: Back Fonts
 
 Package: com.nan.sileo.zh
-Version: 0.1.6
+Version: 0.1.0
 Architecture: all
 Maintainer: zhaonan
 Depends: mobilesubstrate
-Filename: debs/com.nan.sileo.zh_0.1.6_all.deb
-Size: 5286
-MD5sum: 5a16a5fc9167be415e61ac0421a96b00
-SHA1: 8ecf691ce4bbd3f52a2cea5e306a853b41946296
-SHA256: 7518ef8a49f35fa9e8303014d2660c3703d210e595ac585046ed088356426172
+Filename: debs/com.nan.sileo.zh_0.1.0_all.deb
+Size: 5254
+MD5sum: 0baf33f301a34473037635c84465240c
+SHA1: b7a01af60c460a92a949e0561ed9bc84acd46f7a
+SHA256: d102e75e55ec91aacf3ec0abaa6432c5f62858a613893783b033cd5e70d29273
 Section: 汉化
-Description: emmmmmmm 没啥好描述的
+Description: Sileo 汉化
 Author: zhaonan
 Icon: file:///Applications/Sileo.app/AppIcon60x60@2x.png
 Name: Sileo 汉化
@@ -271,22 +257,4 @@ Description: 感谢 Alessandro Chiarlitti 发布的 Sential
  ====================
 Author: zhaonan
 Name: Aential
-
-Package: com.nan.xyz.willy.zebra
-Version: 1.0~beta3
-Architecture: iphoneos-arm
-Maintainer: Wilson Styres <wilson@styres.me>
-Installed-Size: 3296
-Depends: dpkg
-Filename: debs/com.nan.xyz.willy.zebra_1.0~beta3_iphoneos-arm.deb
-Size: 1344274
-MD5sum: 49dafa058ca0e8e3509df65064e8cc32
-SHA1: 0f347f8a0fa976941cacc20935356b35a125e620
-SHA256: 5b296a9d10732cd3fe7a6125e272c0872f3d40a7e55bdf649680395954462960
-Section: Packaging
-Description: 一个简约的包管理器
-Tag: purpose::x
-Author: Wilson Styres <wilson@styres.me>
-Depiction: https://xtm3x.github.io/repo/depictions/xyz.willy.zebra/
-Name: Zebra 微改 (BETA3)
 
