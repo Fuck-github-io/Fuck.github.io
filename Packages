@@ -45,13 +45,13 @@ Name: ColorizeiOS
 Package: com.nan.conditionalwifi4
 Version: 1.0.0
 Architecture: iphoneos-arm
-Maintainer: Nets
+Maintainer: zhaonan
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
 Filename: debs/com.nan.conditionalwifi4_1.0.0_iphoneos-arm.deb
-Size: 15680
-MD5sum: f8540b00453afa480a43fb0297dd62ce
-SHA1: 6963ecfb7140e9f5bc6b218171f1171f3b7ecd40
-SHA256: c8899731a583d232b1a054b7b16bdce1365acb880062650909b4e85782a0e40c
+Size: 11716
+MD5sum: 09a3eb8347d9478657175c244a48fef3
+SHA1: 17a3d4230f399ae71e7bd722e8635570035a71a4
+SHA256: 12b7e6af10b20141824f7ab101e97f9597a8c9f0815c17a8417775d960db57d0
 Section: System
 Description: 最初目的是让国行以外的机型可以调系统WI-FI的联网权限,后用于开启国行机型越狱后App无法联网的问题,支持iOS11-iOS12
 Author: ATWiiks
