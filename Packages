@@ -188,6 +188,22 @@ Description: 在设置 Wi-Fi 界面,显示wifi信号强度和增加一个菜单�
 Author: julioverne
 Name: GoodWiFi
 
+Package: com.nan.libertylite
+Version: 0.2.11
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite
+Filename: debs/com.nan.libertylite_0.2.11_iphoneos-arm.deb
+Size: 37700
+MD5sum: fab2cacdb4bd9a12525dc71077c3c16c
+SHA1: 9bbacf8f74c7cb46cc47e61bac8fb29a63575bc0
+SHA256: bb2e413fb01649601223fef0842ffc907696c7f39f2296f1edfeedf0914c677e
+Section: Tweaks
+Description: 目前主流的越狱屏蔽插件,可配合NoSubstrate使用
+Author: Ryley Angus
+Name: Liberty Lite (Beta)
+
 Package: com.nan.qq+
 Version: 7.9.8
 Architecture: iphoneos-arm
@@ -267,4 +283,19 @@ Description: 感谢 Alessandro Chiarlitti 发布的 Sential
  ====================
 Author: zhaonan
 Name: Aential
+
+Package: com.nan.wechathookpro
+Version: 0.3-5
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: debs/com.nan.wechathookpro_0.3-5_iphoneos-arm.deb
+Size: 1373780
+MD5sum: ca7563cd742111e439f078ff1f741c5a
+SHA1: 76591c7f6e480a1014a2b93df50cb22f82bb2a80
+SHA256: 60a96757fca54e3bf551cc69e9477c31d08406fa50131ef610de408428f42c28
+Section: Toys
+Description: 微信辅助,抢红包/斗图/蜜友/防撤回/自带防越狱检测等功能,支持最新版
+Author: Mao
+Name: WeChatHookPro
 
