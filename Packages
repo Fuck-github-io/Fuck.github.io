@@ -57,6 +57,21 @@ Description: 安装后在 Terminal 运行 bf
 Author: zhaonan
 Name: bf
 
+Package: com.nan.bolders
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate, firmware (>= 9.0), com.chpwn.iconsupport
+Filename: debs/com.nan.bolders_1.0.1_iphoneos-arm.deb
+Size: 13908
+MD5sum: 59d375ade6d44f740e0f0ad0df26c017
+SHA1: e13da97306fbfdc633952b2f4000548ca332fcea
+SHA256: 387b47b27b1ed224139dae6da26658065f841b9308accc400f72aea4e6926d6e
+Section: Tweaks
+Description: 全屏桌面文件夹,全屏毛玻璃特效
+Author: candoizo
+Name: Bolders
+
 Package: com.nan.bounceit
 Version: 0.0.1
 Architecture: iphoneos-arm
