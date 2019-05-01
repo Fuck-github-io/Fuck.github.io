@@ -138,6 +138,37 @@ Description: 双击主屏幕锁屏
 Author: Spark
 Name: DoubleTapLock
 
+Package: com.nan.dune
+Version: 0.1.5
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.nan.dune_0.1.5_iphoneos-arm.deb
+Size: 26292
+MD5sum: d0a9743994b235c66b871fc2fa4968b1
+SHA1: 8278109e8ad8be0ca49a6916490c5fc0106df9b3
+SHA256: 71b92d01218a14092c59a119b60799d3176585363bbb1bb81cb3cab51b858af1
+Section: Tweaks
+Description: 开源的局部暗黑模式,可单独暗黑通知和键盘等
+Author: Skitty
+Name: Dune
+
+Package: com.nan.dy+
+Version: 0.1-5
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate
+Filename: debs/com.nan.dy+_0.1-5_iphoneos-arm.deb
+Size: 12440
+MD5sum: e4e2b1497cf581d0df8830cb041a0f49
+SHA1: c9f68cb4f6211c81338f8c2cdcbf7cdedb23a7fa
+SHA256: f8644278f3f058f4b1c3625ace49baf9db39540e6677129e59ecf9013d7f7d16
+Section: Toys
+Homepage: https://itunes.apple.com/cn/app/%E6%8A%96%E9%9F%B3%E7%9F%AD%E8%A7%86%E9%A2%91/id1142110895?mt=8
+Description: 抖音增强,下载去水印/抖音界面显示状态栏/自动播放/去广告⚠️点击“更多信息”即可跳转下载
+Author: 土拨鼠
+Name: 抖音+
+
 Package: com.nan.fonts.haipaiqiangdiaoqingxia
 Version: 0.1.0
 Architecture: all
