@@ -234,6 +234,42 @@ Description: 目前主流的越狱屏蔽插件,可配合NoSubstrate使用
 Author: Ryley Angus
 Name: Liberty Lite (Beta)
 
+Package: com.nan.pencilchargingindicator
+Version: 1.2~b5
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate
+Filename: debs/com.nan.pencilchargingindicator_1.2~b5_iphoneos-arm.deb
+Size: 387172
+MD5sum: be0050c87a5bad134c987578b7878124
+SHA1: 0ac2d7c04c60c7c8995697e988310e54abfd6b65
+SHA256: 9ae3bd106e470506bf034dc871ef3f3a28581b53505e47310306a0a9c9942bc9
+Section: Tweaks
+Description: 充电动画,移植iPad Pro2018的Apple Pencil充电动画到手机上
+Author: shiftcmdk
+Name: PencilChargingIndicator
+
+Package: com.nan.pulltorespring
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Installed-Size: 144
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), preferenceloader
+Filename: debs/com.nan.pulltorespring_1.2_iphoneos-arm.deb
+Size: 15620
+MD5sum: 786dd396d3c4f90717f49ac606ebb969
+SHA1: b43bdc2f442b7efd48e09100db974b8fe92e3408
+SHA256: 0c66e7dcd613a6810d2a6109183002f96fe74f3fd126e12e8b413336ef6c98a6
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pulltorespringDp
+Description: 在设置下拉以注销
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Author: Noah Saso <noahsaso@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pulltorespringDp
+Dev: sassoty
+Icon: file:///Library/PreferenceLoader/Preferences/PullToRespring@2x.png
+Name: PullToRespring
+
 Package: com.nan.qq+
 Version: 7.9.8
 Architecture: iphoneos-arm
@@ -265,6 +301,21 @@ Description: QQ小助手,兼容App Store最新版本
 Author: Netskao
 Icon: file:///Applications/Cydia.app/Sections/Toys.png
 Name: QQ Helper
+
+Package: com.nan.qqmusic+
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate
+Filename: debs/com.nan.qqmusic+_0.1-1_iphoneos-arm.deb
+Size: 24832
+MD5sum: 6729d7adf5b3697f137883e928a9f487
+SHA1: 4037e0b1e1057668bce5ba67804626c019b3735e
+SHA256: c8600f513178f629f8a80c97a87a9fa9d25552a32b2da5195696884291478c78
+Section: Tweaks
+Description: QQ音乐部分破解
+Author: TouGBao
+Name: QQMusic+
 
 Package: com.nan.script.fontbackup
 Version: 0.1.1
