@@ -43,6 +43,22 @@ Description: 控制中心模块化,由于官方1.4.5版本不知为何去除了�
 Author: ATWiiks
 Name: BetterCCXI
 
+Package: com.nan.bettersettings
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Installed-Size: 1836
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker
+Filename: debs/com.nan.bettersettings_0.1.0_iphoneos-arm.deb
+Size: 1229028
+MD5sum: 2a5374938504bf4043edb9cc13e7b4e4
+SHA1: cfa00d3aef7142e67d925c4dc2b0255387cdb475
+SHA256: d8a2f832b0cd145eb3c4f4fdc36c12ee18fc8919cccc65308461e468bacdeca4
+Section: Tweaks
+Description: 个性化设置
+Author: midnightchips
+Name: BetterSettings
+
 Package: com.nan.bf
 Version: 0.1.1
 Architecture: all
