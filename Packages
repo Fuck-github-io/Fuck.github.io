@@ -428,14 +428,14 @@ Package: com.nan.sileo.zh
 Version: 0.1.0
 Architecture: all
 Maintainer: zhaonan
-Depends: mobilesubstrate
+Depends: Firmware(> 10.0)
 Filename: debs/com.nan.sileo.zh_0.1.0_all.deb
-Size: 5254
-MD5sum: 0baf33f301a34473037635c84465240c
-SHA1: b7a01af60c460a92a949e0561ed9bc84acd46f7a
-SHA256: d102e75e55ec91aacf3ec0abaa6432c5f62858a613893783b033cd5e70d29273
+Size: 5128
+MD5sum: 9e2fd9d8b71895dfd815a86d154a7c4a
+SHA1: 5ad84a86199bcfcce34b9a00844f603eb7c8be8b
+SHA256: 67600850a879ab98eca87e7e792953b7bac375688344e01c9115608c098314f5
 Section: 汉化
-Description: Sileo 汉化
+Description: emmmmmmm 没啥好描述的
 Author: zhaonan
 Icon: file:///Applications/Sileo.app/AppIcon60x60@2x.png
 Name: Sileo 汉化
