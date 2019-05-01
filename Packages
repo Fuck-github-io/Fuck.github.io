@@ -296,6 +296,22 @@ Author: Netskao
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Settings+
 
+Package: com.nan.shuffle
+Version: 0.8.0b
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 9.0), mobilesubstrate, com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Filename: debs/com.nan.shuffle_0.8.0b_iphoneos-arm.deb
+Size: 94808
+MD5sum: 0287a33fb7ff57412ed357c9d4614147
+SHA1: 987f6405bc67cfce3ae4db777728a6e424fd2bb2
+SHA256: 42de4075b07264d84f3231ef0bea40fa09a51a449eb99a7bb15a49728228ade9
+Section: Tweaks
+Description: 为设置选项分类/更稳定,类似明美的设置分类
+Author: CreatureSurvive
+Name: shuffle
+
 Package: com.nan.sileo.zh
 Version: 0.1.0
 Architecture: all
@@ -311,6 +327,23 @@ Description: Sileo 汉化
 Author: zhaonan
 Icon: file:///Applications/Sileo.app/AppIcon60x60@2x.png
 Name: Sileo 汉化
+
+Package: com.nan.sleepanywhere
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate
+Filename: debs/com.nan.sleepanywhere_1.0.0_iphoneos-arm.deb
+Size: 25404
+MD5sum: 98514936de27b66c8d3fcac8d9930a05
+SHA1: e07e81781c91e36416ccff428ff91d95c3413cc2
+SHA256: 5cda676f8691a126c0ed6381285d15a1fd780c46ee1d08657b4905fba63a37cc
+Section: Tweaks
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=sleepanywhere
+Description: 当你有手势时,为何还要使用锁定按钮
+Author: Kiet Ha <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=sleepanywhere
+Name: SleepAnywhere
 
 Package: com.nan.theme.aential
 Version: 0.1.0
