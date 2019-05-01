@@ -251,13 +251,12 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: mobilesubstrate
 Filename: debs/com.nan.dy+_0.1-5_iphoneos-arm.deb
-Size: 12440
-MD5sum: e4e2b1497cf581d0df8830cb041a0f49
-SHA1: c9f68cb4f6211c81338f8c2cdcbf7cdedb23a7fa
-SHA256: f8644278f3f058f4b1c3625ace49baf9db39540e6677129e59ecf9013d7f7d16
-Section: Toys
-Homepage: https://itunes.apple.com/cn/app/%E6%8A%96%E9%9F%B3%E7%9F%AD%E8%A7%86%E9%A2%91/id1142110895?mt=8
-Description: 抖音增强,下载去水印/抖音界面显示状态栏/自动播放/去广告⚠️点击“更多信息”即可跳转下载
+Size: 12328
+MD5sum: 904e9c9515abf6d10437fd1352b976fe
+SHA1: 96eb9d3ab65fa9e1cdb298444e0c1fd594a8a7f3
+SHA256: 1b053cb7a3621946a7e85d80e8e985dc260955d368cbb88d302bef20c5f05a5d
+Section: Tweaks
+Description: 抖音增强,下载去水印/抖音界面显示状态栏/自动播放/去广告⚠️
 Author: 土拨鼠
 Name: 抖音+
 
@@ -437,11 +436,11 @@ Maintainer: zhaonan
 Depends: firmware (>= 9.0), mobilesubstrate
 Conflicts: com.nan.qq+
 Filename: debs/com.nan.qq+_7.9.8_iphoneos-arm.deb
-Size: 146244
-MD5sum: ed0095af879af62c906d00664b99e4e4
-SHA1: 6e6ea72001f80dc120434e8478f985dcc30eb727
-SHA256: ece52c9b53ca89451bb5284cbe42746e8ea1d4156c0e672bcaf1cc9e709a9f77
-Section: Toys
+Size: 146576
+MD5sum: 85e1c62841bd7aa140e933cb59d6679d
+SHA1: 64e606bf82b99b415bfa80231cc752484f1d05ec
+SHA256: 77920fad2e6760fcc08f611d70b981e2d2f4da2753a4d8ce2e4e201c08db43cd
+Section: Tweaks
 Description: QQ抢红包破解版,支持最新版
 Author: 小苹果
 Name: QQ+
@@ -595,11 +594,11 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: mobilesubstrate, firmware (>= 9.0)
 Filename: debs/com.nan.wechathookpro_0.3-5_iphoneos-arm.deb
-Size: 1373780
-MD5sum: ca7563cd742111e439f078ff1f741c5a
-SHA1: 76591c7f6e480a1014a2b93df50cb22f82bb2a80
-SHA256: 60a96757fca54e3bf551cc69e9477c31d08406fa50131ef610de408428f42c28
-Section: Toys
+Size: 1374084
+MD5sum: 855cebb3738de5c3a494dedca3b746bd
+SHA1: 7eed5ee9bc150ef1a91c7ed973914669dec38993
+SHA256: 2befc6d40d75c8d5a1545e5275b5bb4303a100bf8fe77458940f31689b50546c
+Section: Tweaks
 Description: 微信辅助,抢红包/斗图/蜜友/防撤回/自带防越狱检测等功能,支持最新版
 Author: Mao
 Name: WeChatHookPro
