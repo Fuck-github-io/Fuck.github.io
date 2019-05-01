@@ -428,12 +428,11 @@ Package: com.nan.sileo.zh
 Version: 0.1.0
 Architecture: all
 Maintainer: zhaonan
-Depends: Firmware(> 10.0)
 Filename: debs/com.nan.sileo.zh_0.1.0_all.deb
-Size: 5128
-MD5sum: 9e2fd9d8b71895dfd815a86d154a7c4a
-SHA1: 5ad84a86199bcfcce34b9a00844f603eb7c8be8b
-SHA256: 67600850a879ab98eca87e7e792953b7bac375688344e01c9115608c098314f5
+Size: 5108
+MD5sum: 7c78b7bf4b34cd9e30f0bb21d6d85073
+SHA1: 4c024b5c97421d3a59b6a19316a90a32817f6ecf
+SHA256: 3399676c14e9b10f4ecb228b038b312b0ea521caf276b9ecce0dfa9ec1fa340d
 Section: 汉化
 Description: emmmmmmm 没啥好描述的
 Author: zhaonan
