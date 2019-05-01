@@ -1,3 +1,33 @@
+Package: com.nan.bdnetdisk
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate
+Filename: debs/com.nan.bdnetdisk_1.1.1_iphoneos-arm.deb
+Size: 6120
+MD5sum: f5cb0a9aa384f2082fc50bdb2aa492ac
+SHA1: 559549e7e0ee5d496f4c5fa8451884581ef53aa7
+SHA256: 807a6156971ee3dd5269f3464f3b3774d5a789d4410494bbfea79eb2472b4016
+Section: Tweaks
+Description: 开通百度网盘SVIP会员下载加速
+Author: iBreak
+Name: BDNetdisk+ v9.0.0
+
+Package: com.nan.betterccxi
+Version: 1.4.5
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Filename: debs/com.nan.betterccxi_1.4.5_iphoneos-arm.deb
+Size: 49300
+MD5sum: aa4c6c3d27c4c7fc380b88306d94bed5
+SHA1: da41bb89bd1c74c28f9ae39148290d94bd1fefff
+SHA256: ad7d5652073af5638dc527fc2aa3599e8c74c8f15fe6cac620f718b8b9b5fa47
+Section: Tweaks
+Description: 控制中心模块化,由于官方1.4.5版本不知为何去除了天气模块 为此从1.4.4版本提取天气模块增添到1.4.5版本,其他一切为官方原版
+Author: ATWiiks
+Name: BetterCCXI
+
 Package: com.nan.bf
 Version: 0.1.1
 Architecture: all
