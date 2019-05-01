@@ -364,6 +364,21 @@ Description: 目前主流的越狱屏蔽插件,可配合NoSubstrate使用
 Author: Ryley Angus
 Name: Liberty Lite (Beta)
 
+Package: com.nan.localiapstore
+Version: 1.4-4
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Filename: debs/com.nan.localiapstore_1.4-4_iphoneos-arm.deb
+Size: 42448
+MD5sum: 418e82f51da2331dba5b214d6f41b159
+SHA1: f5430c35e9a980def1c4e4940dead68eb69498e7
+SHA256: 36926bf204b2f9475763a438cb507dfd7fdcdadb248c0bea11c6d3df8c464af4
+Section: Tweaks
+Description: 不错的内购破解
+Author: PanguTeam
+Name: LocalIAPStore
+
 Package: com.nan.pencilchargingindicator
 Version: 1.2~b5
 Architecture: iphoneos-arm
