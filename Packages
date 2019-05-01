@@ -87,6 +87,36 @@ Description: 开启应用弹跳动画,使整个手机动画跳跃起来
 Author: Jake James
 Name: Bounce It
 
+Package: com.nan.cacheclearer
+Version: 0.1a
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.nan.cacheclearer_0.1a_iphoneos-arm.deb
+Size: 6740
+MD5sum: 1c640ee4fd4e6cff15889f51a8dd08bc
+SHA1: 50ba108db6018aa6988a90be83a8101c678c9e60
+SHA256: 24d81e9b9798fe19ccc0679ff87c04c21a97908131aadd248a910695832f721f
+Section: Tweaks
+Description: 设置-通用-储存空间里的APP添加“清除缓存/重置应用”选项
+Author: Ryan Petrich, julioverne
+Name: CacheClearer (iOS11/12)
+
+Package: com.nan.cocoatop64bit
+Version: 2.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 9.0)
+Filename: debs/com.nan.cocoatop64bit_2.0.2-1+debug_iphoneos-arm.deb
+Size: 152116
+MD5sum: d9a696ea5925d1ce7422248da9c48cca
+SHA1: fb2ab533dd47096a1fc64f83fd9d634bb1caaa59
+SHA256: 701e1f9f2ecd7e960fc59bc334dfe384f9ccbd7bf8695a728ae2ee3d273632bc
+Section: Utilities
+Description: 一款查看当前进程,CPU使用率,查找高占用高耗电的iOS越狱设备任务管理器(64bit版本)
+Author: Domo
+Name: CocoaTop 64-bit
+
 Package: com.nan.colorizeios
 Version: 0.0.1-47+debug
 Architecture: iphoneos-arm
