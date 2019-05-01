@@ -123,6 +123,21 @@ Author: Netskao
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown 汉化修正
 
+Package: com.nan.doubletaplock
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.nan.doubletaplock_0.0.3_iphoneos-arm.deb
+Size: 54860
+MD5sum: 0075bf0ba9c0eb37730d9c56a68db7c0
+SHA1: da624c34b8e23bf6488e743023c45c11e664990b
+SHA256: 4bec31b79c97846d9f22e937bdcebac4b8d7665a4af84db9c2e6424c4089bf2f
+Section: Tweaks
+Description: 双击主屏幕锁屏
+Author: Spark
+Name: DoubleTapLock
+
 Package: com.nan.fonts.haipaiqiangdiaoqingxia
 Version: 0.1.0
 Architecture: all
@@ -188,6 +203,21 @@ Description: 在设置 Wi-Fi 界面,显示wifi信号强度和增加一个菜单�
 Author: julioverne
 Name: GoodWiFi
 
+Package: com.nan.ioshelper12
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: debs/com.nan.ioshelper12_1.4.0_iphoneos-arm.deb
+Size: 97432
+MD5sum: 535b01e3ac4f3c9ba30a5fb69eb9ce94
+SHA1: 0e41f1869fd7e90f819bf1d5d0a909396fe2e711
+SHA256: c968c7791b36199f6c67b1f4f36f99dec6132437c77a107c710547018c28bd3a
+Section: Tweaks
+Description: iOS 系统多功能定义助手
+Author: iBreak
+Name: iOS Helper (iOS12)
+
 Package: com.nan.libertylite
 Version: 0.2.11
 Architecture: iphoneos-arm
@@ -250,6 +280,22 @@ Description: </br></br>备份字体脚本</br>安装后将</br>System/Library/Fo
 Author: zhaonan
 Name: Back Fonts
 
+Package: com.nan.settings+
+Version: 0.1.5
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate
+Filename: debs/com.nan.settings+_0.1.5_iphoneos-arm.deb
+Size: 9376
+MD5sum: 8af3f10f03014bf4f45bdc55ddf73da5
+SHA1: 8671d89cbd720f8440f733890dc3296be5b9f87f
+SHA256: 9134c4523e9d41c76f2b28f0c961551966f0afb8be669bdd4af9c593eaa460f9
+Section: Tweaks
+Description: 概念设置！附加功能:隐藏系统更新1小红点/去设置顶部搜索完美无空位版 未完待续...
+Author: Netskao
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Settings+
+
 Package: com.nan.sileo.zh
 Version: 0.1.0
 Architecture: all
@@ -283,6 +329,22 @@ Description: 感谢 Alessandro Chiarlitti 发布的 Sential
  ====================
 Author: zhaonan
 Name: Aential
+
+Package: com.nan.tim+
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate
+Filename: debs/com.nan.tim+_0.1.2_iphoneos-arm.deb
+Size: 8148
+MD5sum: 1c00454e64c5383240d53b6607612bc5
+SHA1: 06d8d2ebc0127effb87f7ef6cd6a17c780881a85
+SHA256: b707f336a0daccc6a3ebeb41b4c58f28c4f507bc1d4a53e80d4ed92d7f4f1340
+Section: Tweaks
+Description: TIM功能增强,防撤回无提示/闪照无限制查看/去除表情联想
+Author: Netskao&小苹果
+Icon: file:///Applications/Cydia.app/Sections/Toys.png
+Name: TIM+
 
 Package: com.nan.wechathookpro
 Version: 0.3-5
