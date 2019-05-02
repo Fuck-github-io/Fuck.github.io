@@ -256,18 +256,19 @@ Installed-Size: 1212
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
 Filename: debs/com.nan.datameter_1.4-3_iphoneos-arm.deb
 Size: 243720
-MD5sum: 8c5a2ed1320f47cc002ecc3e9d6db1ee
-SHA1: 115e4e3c23ebeb4076baef79fcf24e8aa8aafd3b
-SHA256: 3859bf67c03e1d49b1afc448b1cab47274cd199a914d56c401e9bab072a79862
+MD5sum: b1d92270bda948527c723f258c4c2cf6
+SHA1: c2bf138610ca69eb0d0997276fed93fc13427052
+SHA256: a512eb8a8572b200699fc54a0510e213f3f208fad173745b521e725b2c87c745
 Section: Addons (NotificationCenter)
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=datameterDp
 Description: DataMeter 在 iOS 7-10 通知中心
-Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
 Author: Minuit <minuits@163.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=datameterDp
 Dev: minuit
 Icon: file:///Library/PreferenceBundles/DataMeterSettings.bundle/icon@2x.png
 Name: DataMeter
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.nan.deleteforever
 Version: 0.0.1-57
