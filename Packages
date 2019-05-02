@@ -248,6 +248,28 @@ Author: Netskao
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown 汉化修正
 
+Package: com.nan.datameter
+Version: 1.4-3
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Installed-Size: 1212
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Filename: debs/com.nan.datameter_1.4-3_iphoneos-arm.deb
+Size: 243732
+MD5sum: 4118d9ee591698b7f1e0366bf9d976ed
+SHA1: c7739f4d470d75d68b8b357cf809795012eba581
+SHA256: 49c5c628f172719f4db7d7fb65757a9a5c34e092b3229aaad68c958016271797
+Section: Addons (NotificationCenter)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=datameterDp
+Description: DataMeter 在 iOS 7-10 通知中心
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Author: Minuit <minuits@163.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=datameterDp
+Dev: minuit
+Icon: file:///Library/PreferenceBundles/DataMeterSettings.bundle/icon@2x.png
+Name: DataMeter
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.nan.deleteforever
 Version: 0.0.1-57
 Architecture: iphoneos-arm
