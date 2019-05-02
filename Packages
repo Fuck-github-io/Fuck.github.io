@@ -118,6 +118,25 @@ Description: 设置-通用-储存空间里的APP添加“清除缓存/重置应�
 Author: Ryan Petrich, julioverne
 Name: CacheClearer (iOS11/12)
 
+Package: com.nan.chrono
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Installed-Size: 340
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: debs/com.nan.chrono_1.1_iphoneos-arm.deb
+Size: 35356
+MD5sum: 9e33bc362d7614f12cfa6b0a8d2f8c10
+SHA1: 7ec8631cdf5c2cc87c32082bb66f371233f3dd0e
+SHA256: d947fa31672f627f2dd0ff5b3e3cafd6cccdd47e4f1ed4a90283fd673de8d567
+Section: Tweaks
+Description: 为您的时钟应用添加秒数!
+Author: ConorTheDev
+Depiction: https://repo.conorthedev.com/package/com.conorthedev.chrono
+Icon: https://repo.conorthedev.com/img/chrono.png
+Name: Chrono
+Sileodepiction: https://repo.conorthedev.com/SileoDepictions/Chrono
+
 Package: com.nan.cocoatop64bit
 Version: 2.0.2-1+debug
 Architecture: iphoneos-arm
@@ -258,6 +277,26 @@ Section: Tweaks
 Description: 双击主屏幕锁屏
 Author: Spark
 Name: DoubleTapLock
+
+Package: com.nan.dragspring
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Installed-Size: 228
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker
+Conflicts: com.sassoty.pulltorespring
+Filename: debs/com.nan.dragspring_1.2.1_iphoneos-arm.deb
+Size: 16624
+MD5sum: b9a9a14af0189cfbedf2605dbc993464
+SHA1: 8810b566d90ffccecf7571ade2e9e12fa4f9c9a3
+SHA256: 92133776a0016c322820390e0db4e37aff59078c9a3e8d7931bc3167bd3053bc
+Section: Tweaks
+Description: 从设置顶部向下拖动来注销!
+Author: ConorTheDev
+Depiction: https://repo.conorthedev.com/package/com.conorthedev.dragspring
+Icon: https://repo.conorthedev.com/img/dragspring.png
+Name: Dragspring
+Sileodepiction: https://repo.conorthedev.com/SileoDepictions/Dragspring
 
 Package: com.nan.dune
 Version: 0.1.5
