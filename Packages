@@ -661,6 +661,25 @@ Author: Kiet Ha <repo@hackyouriphone.org>
 Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=sleepanywhere
 Name: SleepAnywhere
 
+Package: com.nan.tetherme
+Version: 1.2.3~arm64e-1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Installed-Size: 2300
+Pre-Depends: mobilesubstrate (>= 0.9.5101)
+Depends: firmware (>= 8.0), preferenceloader (>= 2.2.2), firmware (>= 11.0) | network-cmds
+Conflicts: net.tetherme.tetherme
+Replaces: net.tetherme.tetherme
+Filename: debs/com.nan.tetherme_1.2.3~arm64e-1_iphoneos-arm.deb
+Size: 80084
+MD5sum: 12a0d13da4250b8870126e9f741bbfa4
+SHA1: a03f22c819ed835ce9bc2395c71486249b9ed7dc
+SHA256: 78236a570ef457bfd0b4cd6d33feaf8cde6353cebe71df2d86dbadbb1fffb37d
+Section: Networking
+Description: 动态启用 iOS8 + 设备的本机网络共享。这应该适用于任何运营商而无需定制捆绑或首选项。
+Depiction: http://repo.tetherme.net/net.tetherme.tetherme8.html
+Name: TetherMe
+
 Package: com.nan.theme.aential
 Version: 0.1.0
 Architecture: all
