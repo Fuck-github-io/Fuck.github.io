@@ -255,10 +255,10 @@ Maintainer: zhaonan
 Installed-Size: 1212
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
 Filename: debs/com.nan.datameter_1.4-3_iphoneos-arm.deb
-Size: 243732
-MD5sum: 4118d9ee591698b7f1e0366bf9d976ed
-SHA1: c7739f4d470d75d68b8b357cf809795012eba581
-SHA256: 49c5c628f172719f4db7d7fb65757a9a5c34e092b3229aaad68c958016271797
+Size: 243720
+MD5sum: 8c5a2ed1320f47cc002ecc3e9d6db1ee
+SHA1: 115e4e3c23ebeb4076baef79fcf24e8aa8aafd3b
+SHA256: 3859bf67c03e1d49b1afc448b1cab47274cd199a914d56c401e9bab072a79862
 Section: Addons (NotificationCenter)
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=datameterDp
 Description: DataMeter 在 iOS 7-10 通知中心
@@ -268,7 +268,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=datameterD
 Dev: minuit
 Icon: file:///Library/PreferenceBundles/DataMeterSettings.bundle/icon@2x.png
 Name: DataMeter
-Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.nan.deleteforever
 Version: 0.0.1-57
