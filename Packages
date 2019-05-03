@@ -644,6 +644,22 @@ Author: zhaonan
 Icon: file:///Applications/Sileo.app/AppIcon60x60@2x.png
 Name: Sileo 汉化
 
+Package: com.nan.sileo.zh
+Version: 0.1.1
+Architecture: all
+Essential: yes
+Maintainer: zhaonan
+Filename: debs/com.nan.sileo.zh_0.1.1_all.deb
+Size: 5132
+MD5sum: 249c42209b08205c9f47ebcdac1e4009
+SHA1: 923a45f7981fb6a45f99e7dd58e2e47d44f597f5
+SHA256: b72311a35fdc4e4df92ad27010aaf5a4c1200cf383fa45720dbfefb549726d4e
+Section: 汉化
+Description: 适用于 Sileo 的汉化
+Author: zhaonan
+Icon: file:///Applications/Sileo.app/AppIcon60x60@2x.png
+Name: Sileo 汉化
+
 Package: com.nan.sleepanywhere
 Version: 1.0.0
 Architecture: iphoneos-arm
