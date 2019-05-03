@@ -647,16 +647,17 @@ Name: Sileo 汉化
 Package: com.nan.sileo.zh
 Version: 0.1.1
 Architecture: all
-Essential: yes
 Maintainer: zhaonan
+Depends: org.coolstar.sileo
 Filename: debs/com.nan.sileo.zh_0.1.1_all.deb
-Size: 5092
-MD5sum: 71b48a2882238f24cc6d391a7234d197
-SHA1: fd06ec99de836418dab1fa7d42c79929899b7134
-SHA256: b2afb1a475399b8ce4fbef7e24e5eaa9687bf823e691ed2ce8308eb9f3e101ec
+Size: 5140
+MD5sum: 36e31f8a35b57ae1cec645a0842d169b
+SHA1: c8892de1d0afdc2fa506ca468ca70505039c831b
+SHA256: 040c17548ddbd575051a7cfd0d8653be93cf099e51be9f7e8739baa11555ec1c
 Section: 汉化
 Description: 适用于 Sileo 的汉化
 Author: zhaonan
+Icon: file:///Applications/Sileo.app/AppIcon60x60@2x.png
 Name: Sileo 汉化
 
 Package: com.nan.sleepanywhere
