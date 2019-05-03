@@ -667,9 +667,9 @@ Maintainer: zhaonan
 Depends: org.coolstar.sileo
 Filename: debs/com.nan.sileo.zh_0.1.2_all.deb
 Size: 5188
-MD5sum: 9a7401be7e01a0f6e1015f8e43d6dbcc
-SHA1: 86daced16cc25a6303f3a5278ec3565bd215e416
-SHA256: 166f98bda5538628b56fd93023dc20cd09846df5c54c1e151d872d5bb9db7316
+MD5sum: 11f5af47e1c36a75ab4034c6e1b12e72
+SHA1: 23a02c0ced0c96888176b1b14d2a62104b26168e
+SHA256: a2991a327c301fbc192d5e67224bc6118be7380e8358867ea5d616433cc52879
 Section: 汉化
 Description: 适用于 Sileo 的汉化
 Author: zhaonan
