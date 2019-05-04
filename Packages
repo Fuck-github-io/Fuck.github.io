@@ -500,6 +500,22 @@ Description: 不错的内购破解
 Author: PanguTeam
 Name: LocalIAPStore
 
+Package: com.nan.openccmm
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 11.0), com.bingner.plutil
+Filename: debs/com.nan.openccmm_0.1.0_iphoneos-arm.deb
+Size: 4600
+MD5sum: 845efa2a1ab40ba490c479a43bf1e2f6
+SHA1: 008818812669817d5d6156abbe2fa7bf24fe0bfd
+SHA256: adab3731d9a3507fc2d581c6c46a8c6d8a6a3b2854f938568960e79bd7b72cd7
+Section: System
+Description: 激活原生 iPhone 控制中心静音按钮，安装后未激活越狱也生效
+Author: zhaonan
+Icon: file:///var/mobile/Media/.Caches/nan/ccicon/MuteModule.png
+Name: Activation CC MuteModule
+
 Package: com.nan.pencilchargingindicator
 Version: 1.2~b5
 Architecture: iphoneos-arm
