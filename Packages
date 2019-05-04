@@ -1,3 +1,18 @@
+Package: com.nan.apppercent
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, net.limneos.libbulletin
+Filename: debs/com.nan.apppercent_2.0.2_iphoneos-arm.deb
+Size: 17396
+MD5sum: d8689e42a055134ff6e0ff3ced5b0309
+SHA1: ff2011b6f75b6401980ea7a0f849932f4398b549
+SHA256: c2a5c4366f73655d4a11dd5d27664473fb39cb90c42baf553ed48f7611a6cd35
+Section: Tweaks
+Description: App 安装显示百分比进度
+Author: pxcex
+Name: App Percent
+
 Package: com.nan.backgrounderaction12
 Version: 0.0.8
 Architecture: iphoneos-arm
@@ -499,6 +514,24 @@ Section: Tweaks
 Description: 不错的内购破解
 Author: PanguTeam
 Name: LocalIAPStore
+
+Package: com.nan.notifywifix
+Version: 1.0.0k
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.notifywifi, com.ichitaso.notifywifi7, com.ichitaso.notifywifi10, com.giorgioiavicoli.passby, com.julioverne.goodwifi, com.hackyouriphone.notifywifi10
+Filename: debs/com.nan.notifywifix_1.0.0k_iphoneos-arm.deb
+Size: 295560
+MD5sum: f667830405ce6e99b420404cc0e3c2c9
+SHA1: bd916dcac4fcba30513aeff8bed5a53a320e1122
+SHA256: 4ccbd227f048d0394c29853b99cd0d236f543436818f2504ee53364d10340fe4
+Section: Tweaks
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=notifywifix
+Description: 适用于 iOS 10 到 12 的 Wi-Fi 变更通知管理器
+Author: ichitaso <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=notifywifix
+Name: NotifyWiFi X
 
 Package: com.nan.openccmm
 Version: 0.1.0
