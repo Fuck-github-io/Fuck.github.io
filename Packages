@@ -731,10 +731,10 @@ Architecture: all
 Maintainer: zhaonan
 Depends: org.coolstar.sileo
 Filename: debs/com.nan.sileo.zh_0.1.3_all.deb
-Size: 5188
-MD5sum: 62395b4ba2c60b7df24b95104ebee981
-SHA1: bb9c12074c3b9af13b9c1eb2fe0fe06aeeeb9669
-SHA256: f827c70008c02b4a8a39e88f76d158e447ebe4a3efe75ac09bfff35752bf803e
+Size: 5184
+MD5sum: e323e76be00a7e84ab853ee106a8f1f7
+SHA1: fed25f54e115a8fc35eed4cf78cd5a1dc1f8ea64
+SHA256: 194ad6166956bbdf5d39af26755def402cc3c66510c1857bee98b16d574a4999
 Section: 汉化
 Description: 适用于 Sileo 的汉化
 Author: zhaonan
