@@ -617,6 +617,22 @@ Author: Netskao
 Icon: file:///Applications/Cydia.app/Sections/Toys.png
 Name: QQ Helper
 
+Package: com.nan.qqhelper
+Version: 1.2.6
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate
+Filename: debs/com.nan.qqhelper_1.2.6_iphoneos-arm.deb
+Size: 39036
+MD5sum: f0fcdc8128ae236b65a8c66009d8d555
+SHA1: f066672da85567abb55a5c274e57687c9e87c72f
+SHA256: daedb9c393ccf0e8eea3cee4193d20db1d56335fb167c2cd5753100e35d38dc4
+Section: Tweaks
+Description: QQ小助手,兼容App Store最新版本
+Author: Netskao
+Icon: file:///Applications/Cydia.app/Sections/Toys.png
+Name: QQ Helper
+
 Package: com.nan.qqmusic+
 Version: 0.1-1
 Architecture: iphoneos-arm
