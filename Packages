@@ -774,6 +774,28 @@ Author: Kiet Ha <repo@hackyouriphone.org>
 Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=sleepanywhere
 Name: SleepAnywhere
 
+Package: com.nan.systeminfo
+Version: 2.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Entity
+Installed-Size: 913
+Depends: mobilesubstrate, firmware (>= 3.0)
+Filename: debs/com.nan.systeminfo_2.0.0-1_iphoneos-arm.deb
+Size: 178404
+MD5sum: d5b8da0ca74d8e9b526193c182ca41c0
+SHA1: 0edc3b6bf47144b11b41d568a25f908ec69baf28
+SHA256: 5ac52d64f6fe20a1a383424ea2aabd6fd537849bb7b30a2596f0742e9be2ec64
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=systeminfoDp
+Description: 设置>通用>关于本机和其他部分中的系统信息。设置启动 nonce，保存shsh2，电池信息等
+Tag: purpose::extension, compatible::ios10, compatible::ios11
+Author: ARX8x <arx8@icloud.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=systeminfoDp
+Dev: arx8x
+Name: System Info
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.nan.tetherme
 Version: 1.2.3~arm64e-1
 Architecture: iphoneos-arm
