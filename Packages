@@ -849,6 +849,21 @@ Author: Netskao&小苹果
 Icon: file:///Applications/Cydia.app/Sections/Toys.png
 Name: TIM+
 
+Package: com.nan.wechathelper
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.nan.wechathelper_1.4.1_iphoneos-arm.deb
+Size: 55304
+MD5sum: d1d320618775d3a6c6e1dbdf31f21e8a
+SHA1: 56c5394dfd3669765b8f8093f6ac7c56d1743552
+SHA256: a258c6a0da549cac67a683cc423812eac5320dbedac24ed87859ae61cdac7cd1
+Section: Tweaks
+Description: 微信助手,可与WeChatHookPro一起用
+Author: iBreak
+Name: WeChat Helper
+
 Package: com.nan.wechathookpro
 Version: 0.3-5
 Architecture: iphoneos-arm
