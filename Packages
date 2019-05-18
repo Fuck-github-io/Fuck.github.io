@@ -1,3 +1,19 @@
+Package: com.nan..st4
+Version: 4.0.1-1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Replaces: com.springtomize.st4
+Provides: com.springtomize.st4.new
+Filename: debs/com.nan..st4_4.0.1-1_iphoneos-arm.deb
+Size: 550336
+MD5sum: 505b3b66edf1a1e22caaf4b7e8775884
+SHA1: 0a94f1342777ab3094944840c94bacd3488787c0
+SHA256: a565984d7d9095ea58bbecd96eba0ffd5bad2f8e035718bfbf5972855bd6d144
+Section: Tweaks
+Author: sharedRoutine
+Name: Springtomize 4
+
 Package: com.nan.apppercent
 Version: 2.0.2
 Architecture: iphoneos-arm
