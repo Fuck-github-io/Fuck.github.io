@@ -6,11 +6,12 @@ Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstra
 Replaces: com.springtomize.st4
 Provides: com.springtomize.st4.new
 Filename: debs/com.nan..st4_4.0.1-1_iphoneos-arm.deb
-Size: 550336
-MD5sum: 505b3b66edf1a1e22caaf4b7e8775884
-SHA1: 0a94f1342777ab3094944840c94bacd3488787c0
-SHA256: a565984d7d9095ea58bbecd96eba0ffd5bad2f8e035718bfbf5972855bd6d144
+Size: 550360
+MD5sum: dbf7f4c0a546221579045ffd47432743
+SHA1: f602ee645a11535ef073af59bb7a2e8e7ccf4900
+SHA256: 2e86072a0aae31830bb34febff1876e0e014da76c883c56fb428209faee41117
 Section: Tweaks
+Description: 老牌瑞士军刀
 Author: sharedRoutine
 Name: Springtomize 4
 
