@@ -662,6 +662,21 @@ Description: </br></br>备份字体脚本</br>安装后将</br>System/Library/Fo
 Author: zhaonan
 Name: Back Fonts
 
+Package: com.nan.sential
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 7.0)
+Filename: debs/com.nan.sential_1.3_iphoneos-arm.deb
+Size: 2329972
+MD5sum: fd6cbcbbc9b3690597bf471da4776cab
+SHA1: dbed391ed2da054e06c0dcea228ba823ae365233
+SHA256: 25480751d0d152b2ef5416839f65fb69759c51884b11b4bb5f54ecc28d48ca09
+Section: Themes
+Description: Improve your iOS Icons.
+Author: Aesign <a.chiarlitti@icloud.com>
+Name: Sential
+
 Package: com.nan.settings+
 Version: 0.1.5
 Architecture: iphoneos-arm
@@ -773,6 +788,23 @@ Description: 当你有手势时,为何还要使用锁定按钮
 Author: Kiet Ha <repo@hackyouriphone.org>
 Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=sleepanywhere
 Name: SleepAnywhere
+
+Package: com.nan.snappy
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Installed-Size: 268
+Depends: firmware (>= 10.3)
+Filename: debs/com.nan.snappy_1.2_iphoneos-arm.deb
+Size: 10828
+MD5sum: 8310681ead606a3fae3d1581b6bfa681
+SHA1: 9a013dc77f706a07c98a9d55fcdc342fcb76be06
+SHA256: 6ab597d07d88b486094b605a00599324a28f7f4376b6f84e2978f1f066e5b271
+Section: System
+Description: APFS 快照管理工具
+Tag: role::hacker
+Author: Sam Bingner <snappy@bingner.com>
+Name: Snappy
 
 Package: com.nan.systeminfo
 Version: 2.0.0-1
