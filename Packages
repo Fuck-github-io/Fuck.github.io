@@ -1,20 +1,3 @@
-Package: com.nan..st4
-Version: 4.0.1-1
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
-Replaces: com.springtomize.st4
-Provides: com.springtomize.st4.new
-Filename: debs/com.nan..st4_4.0.1-1_iphoneos-arm.deb
-Size: 550360
-MD5sum: dbf7f4c0a546221579045ffd47432743
-SHA1: f602ee645a11535ef073af59bb7a2e8e7ccf4900
-SHA256: 2e86072a0aae31830bb34febff1876e0e014da76c883c56fb428209faee41117
-Section: Tweaks
-Description: 老牌瑞士军刀
-Author: sharedRoutine
-Name: Springtomize 4
-
 Package: com.nan.apppercent
 Version: 2.0.2
 Architecture: iphoneos-arm
@@ -823,6 +806,23 @@ Tag: role::hacker
 Author: Sam Bingner <snappy@bingner.com>
 Name: Snappy
 
+Package: com.nan.st4
+Version: 4.0.1-1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Replaces: com.springtomize.st4
+Provides: com.springtomize.st4.new
+Filename: debs/com.nan.st4_4.0.1-1_iphoneos-arm.deb
+Size: 551260
+MD5sum: 7972cf97bc11497e3d7aff686ef23234
+SHA1: b3638540fd90b5be6058b66d6ca4fc59f2541605
+SHA256: 6c6901d4222199a65d386edb2ad42cb4a23e9b3a796ec0afc98f4f05a3508efe
+Section: Tweaks
+Description: 老牌瑞士军刀
+Author: sharedRoutine
+Name: Springtomize 4
+
 Package: com.nan.systeminfo
 Version: 2.0.0-1
 Architecture: iphoneos-arm
@@ -897,6 +897,21 @@ Description: TIM功能增强,防撤回无提示/闪照无限制查看/去除表�
 Author: Netskao&小苹果
 Icon: file:///Applications/Cydia.app/Sections/Toys.png
 Name: TIM+
+
+Package: com.nan.tx+
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: debs/com.nan.tx+_0.1.1_iphoneos-arm.deb
+Size: 146552
+MD5sum: 0b9f87c843e96982618ac91bf48cfbac
+SHA1: 3912fa417ff390442ef16ae255d3fd269020b889
+SHA256: ab47b501cbfe7d45cfbc796ab969723261a3b69c5b90e43853984c2cdafdb0a7
+Section: Tweaks
+Description: QQ & TIM 抢红包破解版,支持最新版
+Author: 小苹果™
+Name: QQ/TIM+ • 1
 
 Package: com.nan.wechathelper
 Version: 1.4.1
