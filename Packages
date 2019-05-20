@@ -585,22 +585,6 @@ Dev: sassoty
 Icon: file:///Library/PreferenceLoader/Preferences/PullToRespring@2x.png
 Name: PullToRespring
 
-Package: com.nan.qq+
-Version: 7.9.8
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware (>= 9.0), mobilesubstrate
-Conflicts: com.nan.qq+
-Filename: debs/com.nan.qq+_7.9.8_iphoneos-arm.deb
-Size: 146576
-MD5sum: 85e1c62841bd7aa140e933cb59d6679d
-SHA1: 64e606bf82b99b415bfa80231cc752484f1d05ec
-SHA256: 77920fad2e6760fcc08f611d70b981e2d2f4da2753a4d8ce2e4e201c08db43cd
-Section: Tweaks
-Description: QQ抢红包破解版,支持最新版
-Author: 小苹果
-Name: QQ+
-
 Package: com.nan.qqhelper
 Version: 1.2.0
 Architecture: iphoneos-arm
